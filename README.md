@@ -1,0 +1,2 @@
+# inventario.db
+Proyecto Final
